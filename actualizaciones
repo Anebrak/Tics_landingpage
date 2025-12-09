@@ -1,0 +1,25 @@
+[33mcommit c07e214341c93a2a007b901ba880913c044c18b5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: DaMasoft <dmartinezs319@gmail.com>
+Date:   Tue Nov 25 11:19:28 2025 -0500
+
+    Update GitHub link in index.html
+    
+    Se ha realizado el cambio dentro de github en la linea 40 sobre el link de la cuenta de github
+
+[33mcommit dbd0cb91bdc0c65d0a20c00d3605c16e2c8f2f7a[m
+Author: Daniel <dmartinezs319@gmail.com>
+Date:   Tue Nov 25 11:16:14 2025 -0500
+
+    se cambiaron los nombres de los archivos y en el index la implementacion de el nuevo nombre del css
+
+[33mcommit 3503b7704506ce7f197ffaa670176dedb9d7570f[m
+Author: Daniel <dmartinezs319@gmail.com>
+Date:   Tue Nov 25 10:47:01 2025 -0500
+
+    añadi el css y las imagenes
+
+[33mcommit a8e6a7f07f0ee7711ce2f63204d45535c7e2d605[m[33m ([m[1;32mcreate[m[33m)[m
+Author: Daniel <dmartinezs319@gmail.com>
+Date:   Tue Nov 25 10:00:12 2025 -0500
+
+    agrege el html general
