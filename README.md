@@ -64,16 +64,13 @@ Incluye botones o íconos con enlaces a:
 
 Cómo Ejecutar el Proyecto
 
-Clona este repositorio:
-
-1. git clone https://github.com/tu-usuario/tu-repositorio.git
+1. Clona este repositorio:
+-  git clone https://github.com/tu-usuario/tu-repositorio.git
    
 2. Entra a la carpeta del proyecto
-  
-3. cd tu-repositorio
+- cd tu-repositorio
  
-4. Abre el archivo principal en tu navegador:
-
+3. Abre el archivo principal en tu navegador:
 - index.html
 
 No necesitas instalar nada adicional.
